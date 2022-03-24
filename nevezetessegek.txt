@@ -8,8 +8,8 @@ Bazilika;Budapest;1868;"Nagy János Vilmos/bazilika/bazilika.jpg";Nagy János Vilm
 Nemzeti Színház;Budapest;1875;"Nagy János Vilmos/nemzeti színház/nemzetiszínház.jpg";Nagy János Vilmos/nemzeti színház/nemzetiszinhaz.txt
 Velencei-tó;Velence;1863;"Nagy János Vilmos/velencei/velencei.jpg";Nagy János Vilmos/velencei/velencei.txt
 Parlament;Budapest;1904;"Nagy János Vilmos/parlament/parlament.jpg";Nagy János Vilmos/parlament/orszaghaz.txt
-Agyaghadsereg;-;-;-;Csabi/agyaghadsereg.txt
-Kínai nagy fal;-;-;-;Csabi/kinainagyfal.txt
-Három-szurdok-gát;-;-;-;Csabi/haromszurdokgat.txt
-Nyári palota;-;-;-;Csabi/nyaripalota.txt
-Tiltott város;-;-;-;Csabi/tiltottvaros.txt
+Agyaghadsereg;-;-;"Csabi/agyaghadsereg.jpg";Csabi/agyaghadsereg.txt
+Kínai nagy fal;-;-;"Csabi/kinainagyfal.jpg";Csabi/kinainagyfal.txt
+Három-szurdok-gát;-;-;"Csabi/haromszurdokgat.jpg";Csabi/haromszurdokgat.txt
+Nyári palota;-;-;"Csabi/nyaripalota.jpg";Csabi/nyaripalota.txt
+Tiltott város;-;-;"Csabi/tiltottvaros.jpg";Csabi/tiltottvaros.txt
