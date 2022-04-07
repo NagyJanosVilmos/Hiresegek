@@ -1,15 +1,15 @@
-Eiffel-torony;PÃ¡rizs;1889;eiffel.jpg;eiffel.txt
-Pisai ferde torony;Pisa;1173-1655;pisai.jpg;pisai.txt
-SzabadsÃ¡g-szobor;New York;1875-1886;szabadsag.jpg;szabadsag.txt
-GÃ­zai piramisok;Egyiptom;i. e. 2600-2500;piramis.jpg;piramis.txt
-Louvre;PÃ¡rizs;1793;louvre.jpg;louvre.txt
-Aggteleki barlang;Aggtelek;1280;"Nagy JÃ¡nos Vilmos/Aggtelek/agtelek.jpg";Nagy JÃ¡nos Vilmos/Aggtelek/aggtelekipark.txt
-Bazilika;Budapest;1868;"Nagy JÃ¡nos Vilmos/bazilika/bazilika.jpg";Nagy JÃ¡nos Vilmos/bazilika/bazilika.txt
-Nemzeti SzÃ­nhÃ¡z;Budapest;1875;"Nagy JÃ¡nos Vilmos/nemzeti szÃ­nhÃ¡z/nemzetiszÃ­nhÃ¡z.jpg";Nagy JÃ¡nos Vilmos/nemzeti szÃ­nhÃ¡z/nemzetiszinhaz.txt
-Velencei-tÃ³;Velence;1863;"Nagy JÃ¡nos Vilmos/velencei/velencei.jpg";Nagy JÃ¡nos Vilmos/velencei/velencei.txt
-Parlament;Budapest;1904;"Nagy JÃ¡nos Vilmos/parlament/parlament.jpg";Nagy JÃ¡nos Vilmos/parlament/orszaghaz.txt
-Agyaghadsereg;KÃ­na;1987;"Csabi/agyaghadsereg.jpg";Csabi/agyaghadsereg.txt
-KÃ­nai nagy fal;KÃ­na;438;"Csabi/kinainagyfal.jpg";Csabi/kinainagyfal.txt
-HÃ¡rom-szurdok-gÃ¡t;KÃ­na;1994;"Csabi/haromszurdokgat.jpg";Csabi/haromszurdokgat.txt
-NyÃ¡ri palota;KÃ­na;880;"Csabi/nyaripalota.jpg";Csabi/nyaripalota.txt
-Tiltott vÃ¡ros;KÃ­na;432;"Csabi/tiltottvaros.jpg";Csabi/tiltottvaros.txt
+Eiffel-torony;Franciaország;1889;eiffel.jpg;eiffel.txt
+Pisai ferde torony;Olaszország;1173;pisai.jpg;pisai.txt
+Szabadság-szobor;Amerika;1875;szabadsag.jpg;szabadsag.txt
+Gízai piramisok;Egyiptom;2600;piramis.jpg;piramis.txt
+Louvre;Franciaország;1793;louvre.jpg;louvre.txt
+Aggteleki barlang;Magyarország;1280;"Nagy János Vilmos/Aggtelek/agtelek.jpg";Nagy János Vilmos/Aggtelek/aggtelekipark.txt
+Bazilika;Magyarország;1868;"Nagy János Vilmos/bazilika/bazilika.jpg";Nagy János Vilmos/bazilika/bazilika.txt
+Nemzeti Színház;Magyarország;1875;"Nagy János Vilmos/nemzeti színház/nemzetiszínház.jpg";Nagy János Vilmos/nemzeti színház/nemzetiszinhaz.txt
+Velencei-tó;Magyarország;1863;"Nagy János Vilmos/velencei/velencei.jpg";Nagy János Vilmos/velencei/velencei.txt
+Parlament;Magyarország;1904;"Nagy János Vilmos/parlament/parlament.jpg";Nagy János Vilmos/parlament/orszaghaz.txt
+Agyaghadsereg;Kína;1987;"Csabi/agyaghadsereg.jpg";Csabi/agyaghadsereg.txt
+Kínai nagy fal;Kína;438;"Csabi/kinainagyfal.jpg";Csabi/kinainagyfal.txt
+Három-szurdok-gát;Kína;1994;"Csabi/haromszurdokgat.jpg";Csabi/haromszurdokgat.txt
+Nyári palota;Kína;880;"Csabi/nyaripalota.jpg";Csabi/nyaripalota.txt
+Tiltott város;Kína;432;"Csabi/tiltottvaros.jpg";Csabi/tiltottvaros.txt
